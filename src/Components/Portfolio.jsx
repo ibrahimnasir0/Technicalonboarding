@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "20 Fun and Exciting Python Projects for Beginners🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Boost Your Skills with Free Video Course.",
+    url: "https://ibrahimnasir0.medium.com/20-fun-and-exciting-python-projects-for-beginners-boost-your-skills-with-free-video-course-34490bf246d3",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Bytewise CyberSecurity Internship",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Bytewise CyberSecurity Internship.",
+    url: "https://ibrahimnasir0.medium.com/bytewise-cybersecurity-internship-ee7e1c2d7a41",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://ibrahimnasir0.github.io/Technicalonboarding/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "100-days-of-code.The-complete-python-pro-bootcamp-for-2023",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "100-days-of-code.The-complete-python-pro-bootcamp-for-2023",
+    url: "https://github.com/ibrahimnasir0/100-days-of-code.The-complete-python-pro-bootcamp-for-2022",
   },
 ];
 
