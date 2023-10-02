@@ -25,13 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Muhammad Ibrahim Nasir",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  title: "Python Developer ,Worrdpess Developer & Content Creator",
+  email: "m.ibrahimnasir2020@gmail.com",
+  gitHub: "https://github.com/ibrahimnasir0",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
+  linkedIn: "https://www.linkedin.com/in/ibrahimnasir0/",
+  medium: "https://ibrahimnasir0.medium.com/",
+  twitter: "https://twitter.com/ibrahimnasir011",
   youTube: "Code",
 };
 
