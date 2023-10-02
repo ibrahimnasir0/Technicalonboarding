@@ -6,6 +6,7 @@
 
 import React from "react";
 
+
 /**
  * About background image
  *
